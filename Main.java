@@ -11,5 +11,6 @@ public class Main{
 		double bmi = weight / Math.pow(height, 2);
 		
 		System.out.println(bmi);
+		System.out.println(bmi);
 	}
 }
